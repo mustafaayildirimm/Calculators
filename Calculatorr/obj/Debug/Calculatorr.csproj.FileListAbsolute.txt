@@ -1,0 +1,10 @@
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\bin\Debug\Calculatorr.exe.config
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\bin\Debug\Calculatorr.exe
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\bin\Debug\Calculatorr.pdb
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\obj\Debug\Calculatorr.csproj.AssemblyReference.cache
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\obj\Debug\Calculatorr.Form1.resources
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\obj\Debug\Calculatorr.Properties.Resources.resources
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\obj\Debug\Calculatorr.csproj.GenerateResource.cache
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\obj\Debug\Calculatorr.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\obj\Debug\Calculatorr.exe
+C:\Users\mustafa.yildirim\source\repos\Calculators\Calculatorr\obj\Debug\Calculatorr.pdb
