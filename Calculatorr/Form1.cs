@@ -180,7 +180,7 @@ namespace Calculatorr
             if (islem == "-")
             {
                 textBox1.Text = Convert.ToString(x + y);
-                label1.Text = "";
+                label1.Text = ""; 
             }
 
             if (islem == "*")
